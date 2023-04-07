@@ -1,0 +1,6 @@
+dependencies:
+- name: bottom-chart
+  repository: file://../bottom-chart
+  version: 0.1.0
+digest: sha256:ebe61be2f60c9751f207d6566b7e716c4c5b0f81f5536891882af570e60ce6f9
+generated: "2023-04-06T21:50:10.0740584-04:00"

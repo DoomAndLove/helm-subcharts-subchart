@@ -1,0 +1,6 @@
+dependencies:
+- name: middle-chart
+  repository: file://../middle-chart
+  version: 0.1.0
+digest: sha256:895966d0e462ac569cc2dbee1a2fb61560475abc86ad286f7c781856f98fe006
+generated: "2023-04-06T21:47:27.9486078-04:00"
